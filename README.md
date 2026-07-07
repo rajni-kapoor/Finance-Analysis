@@ -147,7 +147,6 @@ Users can filter the dashboard by:
 (https://github.com/rajni-kapoor/Finance-Analysis/blob/main/Screenshot_1.gif)
 
 
-```
 
 
 ##  Key Skills Demonstrated
