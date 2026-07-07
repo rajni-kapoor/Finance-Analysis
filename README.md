@@ -100,7 +100,7 @@ The dataset was cleaned and transformed using Power Query.
 
 ---
 
-## 📐 Data Model
+##  Data Model
 
 A Star Schema was implemented consisting of:
 
@@ -196,7 +196,7 @@ The dashboard enables stakeholders to:
 **Rajni Kapoor**
 
 * LinkedIn: *(https://www.linkedin.com/in/rajni-kapoor-70a167263/)*
-* GitHub: *Add your GitHub profile*
+* GitHub: *https://github.com/rajni-kapoor*
 
 If you found this project useful, feel free to ⭐ the repository.
 
