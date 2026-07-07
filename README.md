@@ -5,6 +5,8 @@ This is a power-bi dashboard to generate the finance analysis for dynamic metric
 
 ##  Project Overview
 
+![Finance-Analysis](Images_used/Screenshot_1.gif
+
 This project demonstrates the development of an interactive **Finance Analytics Dashboard** in **Power BI** using a synthetic financial transactions dataset. The dashboard provides insights into transaction performance, customer behavior, operational fees, taxes, and financial trends to support business decision-making.
 
 The solution includes data cleaning, data modeling, DAX calculations, dynamic reporting, and interactive visualizations to help stakeholders monitor key business metrics and identify performance trends.
