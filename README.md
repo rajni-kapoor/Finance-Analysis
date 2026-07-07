@@ -60,7 +60,8 @@ The objective of this dashboard is to provide management with a centralized repo
 
 Provides a high-level overview of financial performance with interactive KPIs and visualizations.
 
-https://github.com/rajni-kapoor/Finance-Analysis/blob/main/Screenshot_3.gif
+[https://github.com/rajni-kapoor/Finance-Analysis/blob/main/Screenshot_3.gif]
+(https://github.com/rajni-kapoor/Finance-Analysis/blob/main/Screenshot_3.gif?raw=true)
 
 ---
 
