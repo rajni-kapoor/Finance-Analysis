@@ -60,9 +60,16 @@ The objective of this dashboard is to provide management with a centralized repo
 
 Provides a high-level overview of financial performance with interactive KPIs and visualizations.
 
+https://github.com/rajni-kapoor/Finance-Analysis/blob/main/Screenshot_3.gif
+
+---
+
 ### Dashboard 2 – Transaction Details
 
 Displays transaction-level records with drill-through functionality for detailed analysis.
+
+
+https://github.com/rajni-kapoor/Finance-Analysis/blob/main/Screenshot_2.gif
 
 ---
 
