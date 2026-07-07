@@ -66,7 +66,7 @@ Displays transaction-level records with drill-through functionality for detailed
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * Power BI Desktop
 * Power Query
@@ -76,7 +76,7 @@ Displays transaction-level records with drill-through functionality for detailed
 
 ---
 
-## 📂 Data Preparation
+##  Data Preparation
 
 The dataset was cleaned and transformed using Power Query.
 
@@ -107,7 +107,7 @@ A dedicated Calendar table was created to support Power BI Time Intelligence fun
 
 ---
 
-## 📈 DAX Measures
+##  DAX Measures
 
 Key DAX measures include:
 
@@ -135,18 +135,12 @@ Users can filter the dashboard by:
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
-> Add screenshots of your dashboard here.
+(https://github.com/rajni-kapoor/Finance-Analysis/blob/main/Screenshot_1.gif)
 
-Example:
 
 ```
-images/
-│── Dashboard_Page1.png
-│── Dashboard_Page2.png
-```
-
 
 
 ##  Key Skills Demonstrated
