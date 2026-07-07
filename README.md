@@ -64,7 +64,7 @@ Provides a high-level overview of financial performance with interactive KPIs an
 
 (https://github.com/rajni-kapoor/Finance-Analysis/blob/main/Images_used/Screenshot_3.gif?raw=true)
 
-![Finance-Analysis](Images_used/Screenshot_1.gif)
+![Finance-Analysis](Images_used/Screenshot_3.gif)
 ---
 
 ### Dashboard 2 – Transaction Details
@@ -72,7 +72,7 @@ Provides a high-level overview of financial performance with interactive KPIs an
 Displays transaction-level records with drill-through functionality for detailed analysis.
 
 
-https://github.com/rajni-kapoor/Finance-Analysis/blob/main/Screenshot_2.gif
+![Finance-Analysis](Images_used/Screenshot_2.gif)
 
 ---
 
@@ -147,7 +147,7 @@ Users can filter the dashboard by:
 
 ##  Dashboard Preview
 
-(https://github.com/rajni-kapoor/Finance-Analysis/blob/main/Screenshot_1.gif)
+![Finance-Analysis](Images_used/Screenshot_1.gif)
 
 
 
